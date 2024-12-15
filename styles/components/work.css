@@ -28,6 +28,10 @@
     text-transform: capitalize;
 }
 
+.work_project-subtitle {
+    display: none;
+}
+
 .work_image-wrapper::after {
     content: '.';
     background-color: rgba(79, 70, 229, 0.4);
